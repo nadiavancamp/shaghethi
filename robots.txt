@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegaewofoa.mydogiscute.org/sitemap.xml
